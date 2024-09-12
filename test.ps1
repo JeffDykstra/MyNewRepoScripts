@@ -1,3 +1,3 @@
 Get-Process
 Get-Service
-Get-EventLog -LogName Application -Newest 10
+Get-EventLog -LogName Application -Newest 15
