@@ -1,3 +1,1 @@
-'hello world2'
-
-'another change'
+'hello world'
